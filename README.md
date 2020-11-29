@@ -1,6 +1,6 @@
 ## 5/2020
 
-### Requires Java
+### Requires Java for Tabula
 
 The current project constitutes ancillary work for my thesis "Land Cover Analysis using OBIA: Municipalities of Delta, Chalkidona, Oraiokastro".
 
